@@ -1,4 +1,4 @@
-<h2> Hi there!</h2>
+<h2> Hi There! 👋/h2>
 
 Hello, visitor! Welcome to my GitHub profile. Here you will find information about me, my interests, and the projects I am involved in. Let me share a bit about my learning and development journey.
 
@@ -22,7 +22,7 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 <img src="https://pa1.aminoapps.com/6751/c0d84354ad05463d63b8a411141bbaf2610e41ca_hq.gif" width="100%" height="10%">
 </p>
 
-## Who Am I?
+## About Me: 
 
 Hello!
 

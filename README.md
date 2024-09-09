@@ -1,4 +1,4 @@
- Hi There! 👋
+<h2>Hi There! 👋</h2>
 
 Hello, visitor! Welcome to my GitHub profile. Here you will find information about me, my interests, and the projects I am involved in. Let me share a bit about my learning and development journey.
 

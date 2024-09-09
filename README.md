@@ -26,7 +26,7 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 
 Hello!
 
-I'm Bárbara, I'm 40 years old and a technology enthusiast. I am currently focused on enhancing my skills in Full Stack development. I am at the beginning of several projects in the field, dedicating all my time and energy to learning and building new experiences.
+I'm Bárbara, I'm 41 years old and a technology enthusiast. I am currently focused on enhancing my skills in Full Stack development. I am at the beginning of several projects in the field, dedicating all my time and energy to learning and building new experiences.
 
 My professional journey began in Physiotherapy, where I worked for 18 years. During this time, I developed valuable problem-solving skills and attention to detail, which I now enthusiastically apply to software development. The transition to technology has been an exciting journey, where I love connecting with other professionals in the field and exploring new opportunities that this dynamic field offers.
 

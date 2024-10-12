@@ -11,8 +11,8 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
   <img src="https://img.icons8.com/?size=256&id=20909&format=png" width="45" height="45"  title="HTML"/>
   <img src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" alt="CSS" width="45" height="45"  title="CSS"/>
   <img src="https://github.com/user-attachments/assets/8c2ac55b-ef17-4b1a-889d-a51ec6f34c98" alt="Python" widht="45" height="45" tittle="Python"/>
-  <img src="https://github.com/user-attachments/assets/3ff6d6e3-b50d-4af9-8551-e6949897da17" alt="Database" widht="45" height="45" tittle="Database"/>
-  <img src="https://github.com/user-attachments/assets/06416535-4309-4686-b687-4e1876b5e5bf" alt="MySql" widht="45" height="45" tittle="MySql"/>  
+  <img src="https://github.com/user-attachments/assets/908a9c8c-6a1f-4eaf-9cde-acad2782bc07" alt="Sql" widht="45" height="45" tittle="SqL"/>
+  <img src="https://github.com/user-attachments/assets/e2fdc325-81cd-47a2-9bbb-8fec67272262" alt="Database" widht="45" height="45" tittle="Database"/>  
   <img src="https://pa1.aminoapps.com/6751/c0d84354ad05463d63b8a411141bbaf2610e41ca_hq.gif" width="100%" height="10%">
 </p>
 <div align="center">  

@@ -2,7 +2,7 @@
 
 Hello, visitor! Welcome to my GitHub profile. Here you will find information about me, my interests, and the projects I am involved in. Let me share a bit about my learning and development journey.
 
-<h3 align="center"> Currently Studying:</h3>
+<h3 align="center"> Currently Studying:</h3> 
 <div align="center">
   <img src="https://img.icons8.com/?size=256&id=Pd2x9GWu9ovX&format=png" alt="Java" width="45" height="45" title="Java"/>
   <img src="https://img.icons8.com/?size=256&id=45490&format=png" alt="C#" width="45" height="45" title="C#"/>

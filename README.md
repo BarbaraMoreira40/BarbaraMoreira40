@@ -29,13 +29,15 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 
 Hello!
 
-🌍 I'm Bárbara (from Brazil), 41 years old, and a few years ago, I decided to change my life and embark on a new journey as a backpacker, choosing to live a free and more unconventional lifestyle (🛫 currently in Europe).
+ 🌍 I'm Bárbara Moreira, a Data Engineer passionate about leveraging data to drive innovation. With a background in physiotherapy, I've honed my analytical skills and problem-solving mindset over the past 19 years. I'm currently embarking on a new adventure in Europe, exploring different cultures and expanding my horizons.
 
-👩🏽‍💻 I'm a technology enthusiast, and currently, my focus has shifted to Data Engineering. I am diving deep into this field, dedicating all my time and energy to learning about data pipelines, ETL processes, and big data technologies.
+👩🏽‍💻 Proficient in data pipelines, ETL processes, and big data technologies, I possess hands-on experience in data analysis, database management, and ETL processes. Skilled in Python, SQL, C#, and React, I'm also a Santander Open Academy Data Science Scholarship recipient, continuously enhancing my expertise.
 
-My professional journey began in Physiotherapy, where I worked for 18 years. Transitioning to technology, specifically Data Engineering, has been an exciting and challenging journey. I love connecting with professionals in the field and exploring the vast opportunities this dynamic area offers.
+Originally from Brazil, I'm now mostly based in Vienna. I thrive in dynamic environments and am passionate about solving real-world problems through data-driven solutions.
 
-I am also involved in some development projects, including an online store website that I’m building with friends using technologies like Java, React, CSS, HTML, Docker, and Spring Boot. Additionally, I am creating a website for an animal shelter in Romania. These experiences have not only enhanced my skills but have also provided me with practical knowledge that I look forward to applying in my Data Engineering career.
+Beyond my technical skills, I'm actively involved in development projects such as building an online store with Java, React, CSS, HTML, Docker, and Spring Boot, and creating a website for an animal shelter in Romania.
+
+I'm always open to collaborating on exciting projects and learning from others. Feel free to reach out!
 </p>
 <h4>
    Thank you for your attention, and I look forward to sharing knowledge and experiences with you!

@@ -34,7 +34,7 @@ Hello!
 
 Originally from Brazil, I'm now mostly based in Vienna. I thrive in dynamic environments and am passionate about solving real-world problems through data-driven solutions.
 
-Beyond my technical skills, I'm actively involved in development projects such as building an online store with Java, React, CSS, HTML, Docker, and Spring Boot, and creating a website for an animal shelter in Romania.
+Beyond my technical skills, I'm actively involved in development projects such as building an online store with JavaScript, React, CSS, HTML, Docker, and Spring Boot, and creating a website for an animal shelter in Romania.
 
 I'm always open to collaborating on exciting projects and learning from others. Feel free to reach out!
 </p>

@@ -28,7 +28,7 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 
 Hello!
 
- 🌍 I'm Bárbara Moreira, a Data Engineer passionate about leveraging data to drive innovation. With a background in physiotherapy, I've honed my analytical skills and problem-solving mindset over the past 19 years. I'm currently embarking on a new adventure in Europe, exploring different cultures and expanding my horizons.
+  🌍 I'm Bárbara Moreira, a Data Engineer passionate about leveraging data to drive innovation. With a background in physiotherapy, I've honed my analytical skills and problem-solving mindset over the past 19 years. I'm currently embarking on a new adventure in Europe, exploring different cultures and expanding my horizons.
 
 👩🏽‍💻 Proficient in data pipelines, ETL processes, and big data technologies, I possess hands-on experience in data analysis, database management, and ETL processes. Skilled in Python, SQL, C#, and React, I'm also a Santander Open Academy Data Science Scholarship recipient, continuously enhancing my expertise.
 

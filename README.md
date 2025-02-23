@@ -5,7 +5,6 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 <h3 align="center"> Currently Studying:</h3> 
 <div align="center">
   <img src="https://img.icons8.com/?size=256&id=45490&format=png" alt="C#" width="45" height="45" title="C#"/>
-  <img src="https://img.icons8.com.br/icon/dSnah6CSCxRG/angularjsalt="Angular" width="45" height="45" title="Angular"/>
   <img src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" alt="JS" width="45" height="45" title="JavaScript"/>
   <img src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a&format=png" alt="TS" width="45" height="45"  title="React"/>
   <img src="https://img.icons8.com/?size=256&id=20909&format=png" width="45" height="45"  title="HTML"/>

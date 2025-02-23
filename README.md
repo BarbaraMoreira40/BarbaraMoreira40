@@ -27,16 +27,18 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 ## About Me: 
 
 Hello!
+🌍 Hello, I’m Bárbara Moreira! I’m a Data Engineer with a background as a physiotherapist for 19 years, now leveraging my analytical skills and problem-solving mindset in the data field.
 
-   🌍 I'm Bárbara Moreira, a Data Engineer passionate about leveraging data to drive innovation. With a background in physiotherapy, I've honed my analytical skills and problem-solving mindset over the past 19 years. I'm currently embarking on a new adventure in Europe, exploring different cultures and expanding my horizons.
+👩🏽‍💻 What I bring:
 
-👩🏽‍💻 Proficient in data pipelines, ETL processes, and big data technologies, I possess hands-on experience in data analysis, database management, and ETL processes. Skilled in Python, SQL, C#, and React, I'm also a Santander Open Academy Data Science Scholarship recipient, continuously enhancing my expertise.
+. Hands-on experience in data analysis, database management, and ETL processes.
+. Proficiency in PYTHON, SQL, and tools like GIT and DOCKER, frameworks like ANGULAR and REACT.
+. Santander Open Academy Data Science Scholarship recipient, enhancing my expertise (Ongoing).
+. Infinity Big Data (Ongoing).
+. DIO Campus Expert Turma 11 (Ongoing).
 
-Originally from Brazil, I'm now mostly based in Vienna. I thrive in dynamic environments and am passionate about solving real-world problems through data-driven solutions.
-
-Beyond my technical skills, I'm actively involved in development projects such as building an online store with SQL, Python, JavaScript, React, CSS, HTML, Docker, and Spring Boot, and creating a website for an animal shelter in Romania.
-
-I'm always open to collaborating on exciting projects and learning from others. Feel free to reach out!
+📍 Originally from Brazil, settling in Europe and mostly of the time in Vienna, I thrive in dynamic environments and am passionate about solving real-world problems through data-driven solutions.
+  
 </p>
 <h4>
    Thank you for your attention, and I look forward to sharing knowledge and experiences with you!

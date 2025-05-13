@@ -27,7 +27,7 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 ## About Me: 
 
 Hello!
-🌍 Hello, I’m Bárbara Moreira! I’m a Data Engineer with a background as a physiotherapist for 19 years, now leveraging my analytical skills and problem-solving mindset in the data field.
+🌍 Hello, I’m Bárbara Moreira! I’m a Data Scientist with a background as a physiotherapist for 21 years, now leveraging my analytical skills and problem-solving mindset in the data field.
 
 👩🏽‍💻 What I bring:
 

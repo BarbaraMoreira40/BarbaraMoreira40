@@ -35,7 +35,6 @@ Hello!
 . Proficiency in PYTHON, SQL, and tools like GIT and DOCKER, frameworks like ANGULAR and REACT.
 . PoD Academy - Full Stack Data & Analytics.
 . Infinity Big Data.
-. DIO Campus Expert Turma 11.
 
 📍 Originally from Brazil, settling in Europe and mostly of the time in Vienna, I thrive in dynamic environments and am passionate about solving real-world problems through data-driven solutions.
   

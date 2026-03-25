@@ -27,15 +27,15 @@ Hello, visitor! Welcome to my GitHub profile. Here you will find information abo
 ## About Me: 
 
 Hello!
-🌍 Hello, I’m Bárbara Moreira! I’m a Data Scientist with a background as a physiotherapist for 21 years, now leveraging my analytical skills and problem-solving mindset in the data field.
+🌍 Hello, I’m Bárbara Moreira! I’m a Full Stack Data & Analytics with a background as a physiotherapist for 21 years, now leveraging my analytical skills and problem-solving mindset in the data field.
 
 👩🏽‍💻 What I bring:
 
 . Hands-on experience in data analysis, database management, and ETL processes.
 . Proficiency in PYTHON, SQL, and tools like GIT and DOCKER, frameworks like ANGULAR and REACT.
-. Santander Open Academy Data Science Scholarship recipient, enhancing my expertise (Ongoing).
-. Infinity Big Data (Ongoing).
-. DIO Campus Expert Turma 11 (Ongoing).
+. PoD Academy - Full Stack Data & Analytics.
+. Infinity Big Data.
+. DIO Campus Expert Turma 11.
 
 📍 Originally from Brazil, settling in Europe and mostly of the time in Vienna, I thrive in dynamic environments and am passionate about solving real-world problems through data-driven solutions.
   

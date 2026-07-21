@@ -42,3 +42,10 @@ Hello!
 <h4>
    Thank you for your attention, and I look forward to sharing knowledge and experiences with you!
 </h4>
+
+
+
+
+
+<img width="100" height="106" alt="image" src="https://github.com/user-attachments/assets/c1d1e087-a2db-4d9d-9325-8005d957d686" />
+
